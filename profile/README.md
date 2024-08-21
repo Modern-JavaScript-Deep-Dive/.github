@@ -35,7 +35,8 @@
 | 2024.07.04 | [4주차][4th_study] |                 [원시 값과 객체의 비교 <br/> 함수][4th_study]                 | [![정훈]][정훈4n] <br/> [![원혁]][원혁4n] <br/> [![성구]][성구4n] |  😃정훈 <br/> 😃원혁 <br/> 😃성구  |
 | 2024.07.11 | [5주차][5th_study] |                 [스코프 <br/> 전역 변수의 문제점 <br/> let, const 키워드와 블록 레벨 스코프][5th_study]                 | [![정훈]][정훈5n] <br/> [![원혁]][원혁5n] <br/> [![성구]][성구5n] | 😃정훈 <br/> 😃원혁 <br/> 😃성구 |
 | 2024.08.15 | [6주차][6th_study] |                 [프로퍼티 어트리뷰트 <br/> 생성자 함수에 의한 객체 생성 <br/> 함수와 일급 객체][6th_study]                 | [![정훈]][정훈6n] <br/> [![원혁]][원혁6n] <br/> [![성구]][성구6n] | 😃정훈 <br/> 😃원혁 <br/> 😃성구 |
-| 2024.08.22 | [7주차][7th_study] |                 [프로토타입][7th_study]                 | [![정훈]][정훈7n] <br/> [![원혁]][원혁7n] <br/> [![성구]][성구7n] |   |
+| 2024.08.21 | [7주차][7th_study] |                 [프로토타입][7th_study]                 | [![정훈]][정훈7n] <br/> [![원혁]][원혁7n] <br/> [![성구]][성구7n] |  😃정훈 <br/> 😃원혁 <br/> 😃성구 |
+| 2024.08.28 | [8주차][8th_study] |                 [strict mode <br/> 빌트인 객체 <br/> this][8th_study]                 | [![정훈]][정훈8n] <br/> [![원혁]][원혁8n] <br/> [![성구]][성구8n] |   |
 
 </div>
 
@@ -70,6 +71,9 @@
 [정훈7n]: https://github.com/Modern-JavaScript-Deep-Dive/Modern-JavaScript-Deep-Dive/blob/main/7주차%20스터디/학습노트/정훈.md
 [원혁7n]: https://github.com/Modern-JavaScript-Deep-Dive/Modern-JavaScript-Deep-Dive/blob/main/7주차%20스터디/학습노트/원혁.md
 [성구7n]: https://github.com/Modern-JavaScript-Deep-Dive/Modern-JavaScript-Deep-Dive/blob/main/7주차%20스터디/학습노트/성구.md
+[정훈8n]: https://github.com/Modern-JavaScript-Deep-Dive/Modern-JavaScript-Deep-Dive/blob/main/8주차%20스터디/학습노트/정훈.md
+[원혁8n]: https://github.com/Modern-JavaScript-Deep-Dive/Modern-JavaScript-Deep-Dive/blob/main/8주차%20스터디/학습노트/원혁.md
+[성구8n]: https://github.com/Modern-JavaScript-Deep-Dive/Modern-JavaScript-Deep-Dive/blob/main/8주차%20스터디/학습노트/성구.md
 
 <!--------------->
 
@@ -82,6 +86,7 @@
 [5th_study]: https://github.com/Modern-JavaScript-Deep-Dive/Modern-JavaScript-Deep-Dive/blob/main/5주차%20스터디/
 [6th_study]: https://github.com/Modern-JavaScript-Deep-Dive/Modern-JavaScript-Deep-Dive/blob/main/6주차%20스터디/
 [7th_study]: https://github.com/Modern-JavaScript-Deep-Dive/Modern-JavaScript-Deep-Dive/blob/main/7주차%20스터디/
+[8th_study]: https://github.com/Modern-JavaScript-Deep-Dive/Modern-JavaScript-Deep-Dive/blob/main/8주차%20스터디/
 
 <!------>
 
